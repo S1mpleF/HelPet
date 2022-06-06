@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980004851693",
+    "project_id": "helpet-7bf16",
+    "storage_bucket": "helpet-7bf16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980004851693:android:1b1678279c1d704a2861e4",
+        "android_client_info": {
+          "package_name": "com.example.helpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980004851693-unchstmd236qp29vitct61vj7kbokhf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7b_WUERgT3y4H7CeC5J4X8Bs-dNxHh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980004851693-unchstmd236qp29vitct61vj7kbokhf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
